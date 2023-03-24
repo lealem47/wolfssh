@@ -8,7 +8,7 @@ The wolfSSH Cube Pack can be found [here](https://www.wolfssl.com/files/ide/I-CU
 
 3. Open the project `.ioc` file and click the `Softare Packs` drop down menu and then `Select Components`. Expand the `wolfSSH` pack and check all the components. 
 
-4. In the `Softare Packs` configuration category of the `.ioc` file, click on the wolfSSH pack and enable the library by checking the box.
+4. In the `Software Packs` configuration category of the `.ioc` file, click on the wolfSSH pack and enable the library by checking the box.
 
 5. Since LwIP is a dependency for the Cube Pack, enable LwIP in the `Middleware` configuration category of the project. Also enable the `LWIP_DNS` option in the LwIP configuration settings.
 
